@@ -11,3 +11,5 @@ The built angular project is located in 'client/www' and can be copied directly 
 
 ### Java Resources
 To speed up having to code non Spring Boot related parts of this application, several Java classes are located in the 'java' folder of this project.  If you are following along on the pluralsight course, the course will direct you where to place each of these files at the appropriate time.
+
+SAMPLE
